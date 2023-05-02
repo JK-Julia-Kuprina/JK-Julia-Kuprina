@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JK-Julia-Kuprina
-- 👀 I’m interested in skiing
+- 👋 Hi, there I’m Julia
+- 👀 I’m interested in skiing, 
 - 🌱 I’m studying to be a developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me y.kuprina1@gmail.com
