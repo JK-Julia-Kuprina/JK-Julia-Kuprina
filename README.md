@@ -1,7 +1,8 @@
-- 👋 Hi, there I’m Julia
-- 👀 I’m interested in skiing, 
+## 👋 Hi, there I’m *Julia*
+### About me
 - 🌱 I’m studying to be a developer
-- 💞️ I’m looking to collaborate on ...
+- 📖 I’m learning English 
+- ⛄ I love mountains fnd skiing
 - 📫 How to reach me y.kuprina1@gmail.com
 
 <!---
