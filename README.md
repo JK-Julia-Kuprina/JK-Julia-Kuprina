@@ -2,7 +2,7 @@
 ### About me
 - 🌱 I’m studying to be a developer
 - 📖 I’m learning English 
-- ⛄ I love mountains fnd skiing
+- ⛄ I love mountains and skiing
 - 📫 How to reach me y.kuprina1@gmail.com
 
 <!---
